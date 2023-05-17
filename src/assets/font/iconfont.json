@@ -1,0 +1,58 @@
+{
+  "id": "3320983",
+  "name": "One",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29045786",
+      "name": "widget_5",
+      "font_class": "widget_5",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "28943178",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "28902983",
+      "name": "系统设置",
+      "font_class": "xitongshezhi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "28902874",
+      "name": "夜间模式",
+      "font_class": "a-darkyejianmoshiheiyemoshishensemoshianheimoshi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9101775",
+      "name": "日间模式xhdpi",
+      "font_class": "rijianmoshixhdpi",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "1059184",
+      "name": "海浪",
+      "font_class": "hailang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "9772929",
+      "name": "多语言",
+      "font_class": "duoyuyan",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    }
+  ]
+}
