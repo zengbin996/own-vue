@@ -30,5 +30,5 @@ export default defineConfig({
 		port: '10000',
 	},
 
-	base: '/own-vue/',
+// 	base: '/own-vue/',
 })
